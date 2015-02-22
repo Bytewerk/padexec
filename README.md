@@ -33,6 +33,7 @@ Button: 9
 Alice Cooper - Bed of Nails
 [paused]  #4/14   0:54/4:20 (20%)
 volume: 25%   repeat: off   random: off   single: off   consume: off
+
 Button: 9
 Alice Cooper - Bed of Nails
 [playing] #4/14   0:54/4:20 (20%)
