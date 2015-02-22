@@ -14,7 +14,7 @@ Execute shell commands with your game controller (&lt;70 LOC, based on SDL2).
 * ???
 * PROFIT!
 
-## Example Output
+## Example Session
 *Button 9 has been mapped to `mpc toggle` and gets pressed twice:*
 ```
 ./padexec.x86_64 
@@ -28,6 +28,7 @@ Here's a list of attached joystick(s) (1 total):
 Yay, found the pad we were looking for \o/
 Number of Axes: 5
 Number of Buttons: 12
+
 Button: 9
 Alice Cooper - Bed of Nails
 [paused]  #4/14   0:54/4:20 (20%)
