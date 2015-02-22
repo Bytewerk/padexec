@@ -5,7 +5,7 @@ Execute shell commands with your game controller (&lt;70 LOC, based on SDL2).
 ## Requirements
 * git (to get the source code)
 * SDL2
-* very little C / programming knowledge *(you'll need to hack a C file `:O!`)*
+* very little C programming knowledge *(you'll need to hack a C file `:O!`)*
 
 ## Usage
 * Grab the source code:
